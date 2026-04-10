@@ -40,4 +40,4 @@ Running the simulation with many shots (~1000) should produce:
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook
+python superposition_demo.py
