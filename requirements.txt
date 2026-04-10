@@ -1,0 +1,4 @@
+```text
+qiskit
+numpy
+matplotlib
